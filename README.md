@@ -1,2 +1,2 @@
 # hello-world
-learning Rails
+learning Rails for the first time
